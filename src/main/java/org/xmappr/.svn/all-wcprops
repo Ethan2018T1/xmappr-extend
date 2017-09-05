@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr
+END
+XmlConfigurationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/265/trunk/src/main/java/org/xmappr/XmlConfigurationValidator.java
+END
+MappingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/263/trunk/src/main/java/org/xmappr/MappingContext.java
+END
+MappingBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/MappingBuilder.java
+END
+FieldAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/265/trunk/src/main/java/org/xmappr/FieldAccessor.java
+END
+ConfigurationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigurationProcessor.java
+END
+XMLSimpleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/266/trunk/src/main/java/org/xmappr/XMLSimpleWriter.java
+END
+Xmappr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/Xmappr.java
+END
+ConfigText.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigText.java
+END
+XMLFastStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/XMLFastStreamReader.java
+END
+XmapprConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/XmapprConfigurationException.java
+END
+ConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigElement.java
+END
+ConfigNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigNamespace.java
+END
+ConfigRootElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigRootElement.java
+END
+ObjectStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/266/trunk/src/main/java/org/xmappr/ObjectStore.java
+END
+NsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/NsContext.java
+END
+XmapprException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/XmapprException.java
+END
+DomElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/220/trunk/src/main/java/org/xmappr/DomElement.java
+END
+ConfigAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/ConfigAttribute.java
+END
+XmlStreamSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/266/trunk/src/main/java/org/xmappr/XmlStreamSettings.java
+END
+XMLSimpleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/266/trunk/src/main/java/org/xmappr/XMLSimpleReader.java
+END

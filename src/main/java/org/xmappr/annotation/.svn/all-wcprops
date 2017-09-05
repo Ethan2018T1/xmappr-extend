@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation
+END
+RootElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/RootElement.java
+END
+Namespaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Namespaces.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Attribute.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Text.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Attributes.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Element.java
+END
+Elements.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/annotation/Elements.java
+END

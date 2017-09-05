@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters
+END
+FieldAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/188/trunk/apidocs/org/xmappr/converters/FieldAccessor.html
+END
+ElementConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ElementConverter.html
+END
+IntConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/IntConverter.html
+END
+CollectionConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/CollectionConverter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/package-frame.html
+END
+Base64.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/Base64.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/package-summary.html
+END
+CollectionConverting.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/CollectionConverting.html
+END
+ByteArrayConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ByteArrayConverter.html
+END
+FieldConnector.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/170/trunk/apidocs/org/xmappr/converters/FieldConnector.html
+END
+ElementMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/188/trunk/apidocs/org/xmappr/converters/ElementMapper.html
+END
+ClassNameConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ClassNameConverter.html
+END
+DoubleConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/DoubleConverter.html
+END
+ValueConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ValueConverter.html
+END
+DateConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/DateConverter.html
+END
+ValueConverterWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ValueConverterWrapper.html
+END
+CharConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/CharConverter.html
+END
+Converter.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/Converter.html
+END
+BooleanConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/BooleanConverter.html
+END
+BigIntegerConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/BigIntegerConverter.html
+END
+AttributeMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/188/trunk/apidocs/org/xmappr/converters/AttributeMapper.html
+END
+BigDecimalConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/BigDecimalConverter.html
+END
+EmptyStringConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/EmptyStringConverter.html
+END
+DOMelementConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/DOMelementConverter.html
+END
+LongConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/LongConverter.html
+END
+ShortConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ShortConverter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/package-tree.html
+END
+RootMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/RootMapper.html
+END
+TextMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/188/trunk/apidocs/org/xmappr/converters/TextMapper.html
+END
+ByteConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ByteConverter.html
+END
+EnumConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/EnumConverter.html
+END
+FloatConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/FloatConverter.html
+END
+ClassConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/ClassConverter.html
+END
+StringConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/converters/StringConverter.html
+END

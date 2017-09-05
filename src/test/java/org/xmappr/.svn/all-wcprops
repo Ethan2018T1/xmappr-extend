@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr
+END
+SubTreeStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/SubTreeStoreTest.java
+END
+SimpleWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/SimpleWriterTest.java
+END
+DomElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/DomElementTest.java
+END
+WrongTargetObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/WrongTargetObject.java
+END
+ByteArrayConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ByteArrayConverterTest.java
+END
+EnumConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/EnumConverterTest.java
+END
+SampleXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/SampleXml.java
+END
+CustomConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterTest.java
+END
+ValueConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ValueConverterTest.java
+END
+WildcardMappingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/WildcardMappingTest.java
+END
+CustomConverterAssignedOnConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterAssignedOnConfigurationTest.java
+END
+LoopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/LoopTest.java
+END
+MultiattributeMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/MultiattributeMapTest.java
+END
+XmlConfigTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/264/trunk/src/test/java/org/xmappr/XmlConfigTester.java
+END
+CustomConverterOnRootElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterOnRootElement.java
+END
+DomElementConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/DomElementConverterTest.java
+END
+XmlConfigParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/XmlConfigParseTest.java
+END
+CollectionConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CollectionConverterTest.java
+END
+ConverterNotFoundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ConverterNotFoundTest.java
+END
+BasicConvertersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/BasicConvertersTest.java
+END
+MultiMappingConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/MultiMappingConfigurationTest.java
+END
+InterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/InterfaceTest.java
+END
+CustomConverterChangesTargetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterChangesTargetTest.java
+END
+DefaultValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/DefaultValuesTest.java
+END
+DateConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/DateConverterTest.java
+END
+ValueConverterWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ValueConverterWrapperTest.java
+END
+ComplexParentClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ComplexParentClassTest.java
+END
+XmapprTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/264/trunk/src/test/java/org/xmappr/XmapprTest.java
+END
+BigIntegerConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/BigIntegerConverterTest.java
+END
+EmptyElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/EmptyElementTest.java
+END
+BigDecimalConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/BigDecimalConverterTest.java
+END
+CustomConverterOnCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterOnCollectionTest.java
+END
+SimpleReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/267/trunk/src/test/java/org/xmappr/SimpleReaderTest.java
+END
+CustomConverterMultiTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/CustomConverterMultiTypeTest.java
+END
+ParentClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ParentClassTest.java
+END
+MultielementCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/MultielementCollectionTest.java
+END
+ExistingObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/280/trunk/src/test/java/org/xmappr/ExistingObjectTest.java
+END
+Base64Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/125/trunk/src/test/java/org/xmappr/Base64Test.java
+END

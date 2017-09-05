@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use
+END
+XMLSimpleReader.AttributeIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XMLSimpleReader.AttributeIterator.html
+END
+ConfigText.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigText.html
+END
+ObjectStore.Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ObjectStore.Element.html
+END
+Elements.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Elements.html
+END
+XMLFastStreamReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XMLFastStreamReader.html
+END
+XmapprConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XmapprConfigurationException.html
+END
+Namespaces.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Namespaces.html
+END
+ConfigElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigElement.html
+END
+ConfigNamespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigNamespace.html
+END
+ConfigRootElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigRootElement.html
+END
+ObjectStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ObjectStore.html
+END
+Xmappr.Result.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Xmappr.Result.html
+END
+Text.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Text.html
+END
+NsContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/NsContext.html
+END
+XMLSimpleReader.Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XMLSimpleReader.Element.html
+END
+XmapprException.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XmapprException.html
+END
+Attributes.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Attributes.html
+END
+Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Element.html
+END
+ConfigAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigAttribute.html
+END
+DOMelement.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/DOMelement.html
+END
+RootElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/RootElement.html
+END
+XMLSimpleReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XMLSimpleReader.html
+END
+XmlStreamSettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XmlStreamSettings.html
+END
+MappingContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/MappingContext.html
+END
+MappingBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/MappingBuilder.html
+END
+Attribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Attribute.html
+END
+ConfigurationProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/ConfigurationProcessor.html
+END
+XMLSimpleWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/XMLSimpleWriter.html
+END
+Xmappr.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/class-use/Xmappr.html
+END

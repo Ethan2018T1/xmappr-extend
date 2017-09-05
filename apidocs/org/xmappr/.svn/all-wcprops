@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr
+END
+ConfigText.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigText.html
+END
+ObjectStore.Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ObjectStore.Element.html
+END
+XmapprConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XmapprConfigurationException.html
+END
+ConfigNamespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigNamespace.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/package-use.html
+END
+XMLSimpleReader.Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XMLSimpleReader.Element.html
+END
+NsContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/NsContext.html
+END
+XmapprException.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XmapprException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/package-summary.html
+END
+Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Element.html
+END
+RootElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/RootElement.html
+END
+XmlStreamSettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XmlStreamSettings.html
+END
+Attribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Attribute.html
+END
+XMLSimpleReader.AttributeIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XMLSimpleReader.AttributeIterator.html
+END
+Elements.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Elements.html
+END
+XMLFastStreamReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XMLFastStreamReader.html
+END
+ConfigElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigElement.html
+END
+Namespaces.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Namespaces.html
+END
+ConfigRootElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigRootElement.html
+END
+ObjectStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ObjectStore.html
+END
+Xmappr.Result.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Xmappr.Result.html
+END
+Text.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Text.html
+END
+Attributes.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Attributes.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/package-tree.html
+END
+DOMelement.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/DOMelement.html
+END
+ConfigAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigAttribute.html
+END
+XMLSimpleReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XMLSimpleReader.html
+END
+MappingContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/MappingContext.html
+END
+MappingBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/MappingBuilder.html
+END
+ConfigurationProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/ConfigurationProcessor.html
+END
+XMLSimpleWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/XMLSimpleWriter.html
+END
+Xmappr.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/252/trunk/apidocs/org/xmappr/Xmappr.html
+END

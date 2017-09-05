@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/converters
+END
+LongConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/LongConverter.java
+END
+ShortConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ShortConverter.java
+END
+RootMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/266/trunk/src/main/java/org/xmappr/converters/RootMapper.java
+END
+ByteArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ByteArrayConverter.java
+END
+CollectionConverting.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/CollectionConverting.java
+END
+ByteConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ByteConverter.java
+END
+EnumConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/EnumConverter.java
+END
+ClassConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/260/trunk/src/main/java/org/xmappr/converters/ClassConverter.java
+END
+FloatConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/FloatConverter.java
+END
+ClassNameConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/262/trunk/src/main/java/org/xmappr/converters/ClassNameConverter.java
+END
+StringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/StringConverter.java
+END
+DoubleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/DoubleConverter.java
+END
+ValueConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ValueConverter.java
+END
+ValueConverterWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ValueConverterWrapper.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/DateConverter.java
+END
+CharConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/CharConverter.java
+END
+BigIntegerConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/BigIntegerConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/Converter.java
+END
+BooleanConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/BooleanConverter.java
+END
+BigDecimalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/BigDecimalConverter.java
+END
+EmptyStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/EmptyStringConverter.java
+END
+ElementConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/ElementConverter.java
+END
+DomElementConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/194/trunk/src/main/java/org/xmappr/converters/DomElementConverter.java
+END
+IntConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/IntConverter.java
+END
+CollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/src/main/java/org/xmappr/converters/CollectionConverter.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/280/trunk/src/main/java/org/xmappr/converters/Base64.java
+END

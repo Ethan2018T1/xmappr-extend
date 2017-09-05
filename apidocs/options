@@ -1,0 +1,24 @@
+-classpath
+'D:/DataForWork/repositoryForMvn/stax/stax-api/1.0.1/stax-api-1.0.1.jar;D:/DataForWork/repositoryForMvn/org/codehaus/woodstox/stax2-api/3.0.1/stax2-api-3.0.1.jar;D:/DataForWork/repositoryForMvn/org/codehaus/woodstox/woodstox-core-asl/4.0.5/woodstox-core-asl-4.0.5.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/WorkProject/xmappr/trunk/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/WorkProject/xmappr/trunk/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Xmappr 0.9.5-ctim API'
+-linkoffline
+'http://docs.oracle.com/javase/1.5.0/docs/api' 'D:/WorkProject/xmappr/trunk/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Xmappr 0.9.5-ctim API'
