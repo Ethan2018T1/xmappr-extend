@@ -2,6 +2,7 @@ package org.xmappr;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.text.MessageFormat;
 import java.util.Collection;
 
 import org.xmappr.converters.DomElementConverter;
@@ -621,6 +622,10 @@ public class XmlConfigurationValidator {
 		// field defined
 		if (attribute.field != null) {
 			attribute.targetField = findField(elementClass, attribute.field);
+			if (null == attribute.targetField) {
+				throw new XmapprConfigurationException(MessageFormat.format("类名{0}对应的属性字段{1}不存在",
+						elementClass.getName(), attribute.field));
+			}
 			attribute.accessorType = attribute.targetField.getType();
 		} else {
 
