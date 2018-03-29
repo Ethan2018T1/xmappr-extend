@@ -4,21 +4,21 @@
 'UTF-8'
 -protected
 -sourcepath
-'D:/WorkProject/xmappr/trunk/src/main/java'
+'D:/WorkProject/xmappr-extend/src/main/java'
 -author
 -bottom
-'Copyright &#169; 2017. All rights reserved.'
+'Copyright &#169; 2018. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'D:/WorkProject/xmappr/trunk/apidocs'
+'D:/WorkProject/xmappr-extend/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
-'Xmappr 0.9.5-ctim API'
+'Xmappr 1.0.0 API'
 -linkoffline
-'http://docs.oracle.com/javase/1.5.0/docs/api' 'D:/WorkProject/xmappr/trunk/target/javadoc-bundle-options'
+'http://docs.oracle.com/javase/1.5.0/docs/api' 'D:/WorkProject/xmappr-extend/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'Xmappr 0.9.5-ctim API'
+'Xmappr 1.0.0 API'
